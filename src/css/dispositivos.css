@@ -1,0 +1,67 @@
+@media screen and (min-width: 768px){
+  body{
+    font-size: 24px;
+  }
+  
+  header{
+    width: 70vw;
+    
+    & img{
+      width: 260px;
+    }
+
+    & nav{
+      & ul{
+        justify-content: center;
+        gap: 50px;
+      }
+    }
+  }
+
+  section{
+    & .list{
+      & .itens{
+        & .car-img{
+          top: 50%;
+          & img{
+            width: 60%;
+          }
+        }
+
+        & .content{
+          top: 5%;
+          justify-content: center;
+
+          & h2{
+            font-size: 2em;
+          }
+          
+          & .informacoes{
+            line-height: 26px;
+            width: 45%;
+          }
+        }
+      }
+    }
+    &::before{
+      top: 50%;
+    }
+
+    & .botoes{
+      top: 50%;
+
+      & button{
+        width: 60px;
+        height: 60px;
+
+        & img{
+          width: 30px;
+        }
+      }
+    }
+
+    & .indicadores{
+      height: 500px;
+    }
+  }
+}
