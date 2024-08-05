@@ -1,7 +1,7 @@
 # Projeto-carros
 
 <p align="center">
- <img width="150" src="src/imagens/1.png">
+ <img width="200" src="src/imagens/2.png">
 </p>
 
 ## Description
