@@ -17,6 +17,10 @@
   2. I learned a new way of writing at the CSS which brought me much more organization.
   3. I improved my techniques a lot in "Mobile First"
 
+<p align="center">
+ <img width="200" src="src/imagens/3.png">
+</p>
+
 ## technologies used
 
 <table>
@@ -31,10 +35,6 @@
     <td>ECMAScript5.1</td>
   </tr>
 </table>
-
-<p align="center">
- <img width="200" src="src/imagens/3.png">
-</p>
 
 #
 
