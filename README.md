@@ -12,3 +12,25 @@
   1. I learned good ways to make clean and well-optimized codes.
   2. I learned a new way of writing at the CSS which brought me much more organization.
   3. I improved my techniques a lot in "Mobile First"
+
+## technologies used
+
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
+    <td>5.0</td>
+    <td>3.0</td>
+    <td>ECMAScript5.1</td>
+  </tr>
+</table>
+
+#
+
+## How to access
+
+To access the website, click on the link below! <br>
+<a href="https://filipi-pinheiro.github.io/Projeto-carros/" target="_blank">Access to website</a>
