@@ -42,3 +42,7 @@
 
 To access the website, click on the link below! <br>
 <a href="https://filipi-pinheiro.github.io/Projeto-carros/" target="_blank">Access to website</a>
+
+<p align="center">
+ <img width="200" src="src/imagens/1.png">
+</p>
