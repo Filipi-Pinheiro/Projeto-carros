@@ -10,6 +10,6 @@
 
 ## What's did i learn?
 
-  - I learned good ways to make clean and well-optimized code.
+  - I learned good ways to make clean and well-optimized codes.
   - I learned a new way of writing in CSS which brought me much more organization.
   - I improved my techniques a lot in "Mobile First"
